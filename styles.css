@@ -1,0 +1,65 @@
+#IraqH1 {
+    color: #FFFFFF;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin-top: -1%;
+}
+#IraqH2 {
+    color: #000000;
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+
+}
+#VisitH1{
+    color: #24a014;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex; 
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-bottom: -5%;
+}
+
+#Visit2 {
+    color: #24a014;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex; 
+    text-align: left;
+    margin-left: 5%;
+}
+  
+button {
+    font-size: 48px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 44%;
+    margin-top: 28%;
+}
+
+#page1{
+    width: 100vw;
+    height: 100vh;
+    background: url(img/IraqPic.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#page2{
+    width: 100vw;
+    height: 100vh;
+    background: url(img/IraqPic2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
